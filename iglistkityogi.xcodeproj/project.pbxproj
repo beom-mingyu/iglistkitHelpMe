@@ -25,9 +25,6 @@
 		7CAF35FC257538C9009E8728 /* NoImagesSectionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CAF35FB257538C9009E8728 /* NoImagesSectionController.swift */; };
 		7CAF3601257538D4009E8728 /* WithImagesSectionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CAF3600257538D4009E8728 /* WithImagesSectionController.swift */; };
 		7CAF360725753A80009E8728 /* DummyData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CAF360625753A80009E8728 /* DummyData.swift */; };
-		7CAF360C2575406D009E8728 /* img1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CAF360B2575406D009E8728 /* img1.png */; };
-		7CAF3611257540D4009E8728 /* img2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CAF3610257540D4009E8728 /* img2.png */; };
-		7CAF361625754105009E8728 /* img3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CAF361525754105009E8728 /* img3.png */; };
 		7CAF361B2575424B009E8728 /* Dummy+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CAF361A2575424B009E8728 /* Dummy+Extension.swift */; };
 		8150FA46F657183419ADD17C /* Pods_iglistkityogiTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5440AC8A6D84FC009D0160F /* Pods_iglistkityogiTests.framework */; };
 		BD00CCA76DD53B9CB6F45E08 /* Pods_iglistkityogi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D8AFDDA4E09D9C6F58924A2 /* Pods_iglistkityogi.framework */; };
@@ -78,9 +75,6 @@
 		7CAF35FB257538C9009E8728 /* NoImagesSectionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoImagesSectionController.swift; sourceTree = "<group>"; };
 		7CAF3600257538D4009E8728 /* WithImagesSectionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WithImagesSectionController.swift; sourceTree = "<group>"; };
 		7CAF360625753A80009E8728 /* DummyData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyData.swift; sourceTree = "<group>"; };
-		7CAF360B2575406D009E8728 /* img1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = img1.png; path = ../../../Desktop/img1.png; sourceTree = "<group>"; };
-		7CAF3610257540D4009E8728 /* img2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = img2.png; path = ../../../Desktop/img2.png; sourceTree = "<group>"; };
-		7CAF361525754105009E8728 /* img3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = img3.png; path = ../../../Desktop/img3.png; sourceTree = "<group>"; };
 		7CAF361A2575424B009E8728 /* Dummy+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dummy+Extension.swift"; sourceTree = "<group>"; };
 		7ED69CA8017FA3BB3C64F31E /* Pods_iglistkityogi_iglistkityogiUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iglistkityogi_iglistkityogiUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		86A5667FF526209A92F50146 /* Pods-iglistkityogi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iglistkityogi.release.xcconfig"; path = "Target Support Files/Pods-iglistkityogi/Pods-iglistkityogi.release.xcconfig"; sourceTree = "<group>"; };
@@ -175,9 +169,6 @@
 				7C1C874C257531E1000EEF4A /* Assets.xcassets */,
 				7C1C874E257531E1000EEF4A /* LaunchScreen.storyboard */,
 				7C1C8751257531E1000EEF4A /* Info.plist */,
-				7CAF361525754105009E8728 /* img3.png */,
-				7CAF3610257540D4009E8728 /* img2.png */,
-				7CAF360B2575406D009E8728 /* img1.png */,
 			);
 			path = iglistkityogi;
 			sourceTree = "<group>";
@@ -340,11 +331,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C1C8750257531E1000EEF4A /* LaunchScreen.storyboard in Resources */,
-				7CAF3611257540D4009E8728 /* img2.png in Resources */,
-				7CAF360C2575406D009E8728 /* img1.png in Resources */,
 				7C1C874D257531E1000EEF4A /* Assets.xcassets in Resources */,
 				7C1C874B257531DF000EEF4A /* Main.storyboard in Resources */,
-				7CAF361625754105009E8728 /* img3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
